@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+         android:layout_height="wrap_content"    >
+
+     <TextView
+             android:id="@+id/add_contact"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="10dp"
+             android:gravity="left"
+             android:text="请选择 确定 按钮 从SD卡中读取联系人信息到电话薄中"
+             android:textColor="#FFFFFF"    ></TextView>
+   
+</LinearLayout>   
+   
